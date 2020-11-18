@@ -12,7 +12,7 @@ export default class Search {
             return this.result;
 
         } catch (error) {
-            alert(`Asuudal garlaa ${error}`)
+            alert(`Asuudal garlaaaa ${error}`)
         }
     }
 
